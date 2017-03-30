@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "titlebar",
+    "texture": "8aff50ca-93b9-44f3-b6aa-d5e95e263d90",
+    "rect": [
+      0,
+      0,
+      720,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      720,
+      100
+    ]
+  }
+}

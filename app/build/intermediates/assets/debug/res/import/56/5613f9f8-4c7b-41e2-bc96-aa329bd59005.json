@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "wave",
+  "_duration": 0.5166666666666667,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "82860e37-bcbf-473d-adca-6734401a79a0"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "16331f25-59d6-4ce4-bc18-b11c2f2cec14"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "01d07d9d-9a9f-47aa-80e2-38e2b49d6fd6"
+            }
+          },
+          {
+            "frame": 0.38333333333333336,
+            "value": {
+              "__uuid__": "adda4a88-8923-4244-a55e-e14abfb4a2de"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "f99a56dc-ed7b-4625-9c42-a6d735a1883b"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

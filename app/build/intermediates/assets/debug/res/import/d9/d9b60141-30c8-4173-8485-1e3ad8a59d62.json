@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_pop btn_yes_default",
+    "texture": "dd554ef4-6d6f-4ebb-97a9-49ce17300b6a",
+    "rect": [
+      0,
+      0,
+      128,
+      137
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      128,
+      138
+    ]
+  }
+}

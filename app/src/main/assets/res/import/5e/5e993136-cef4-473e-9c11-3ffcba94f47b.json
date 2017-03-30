@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "info-pressed",
+    "texture": "04375778-5445-4189-97ef-4f22e8504ff0",
+    "rect": [
+      0,
+      0,
+      128,
+      137
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      128,
+      138
+    ]
+  }
+}

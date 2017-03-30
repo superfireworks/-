@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "npc3-2",
+    "texture": "66271149-3ece-4644-bcb6-d90f6e8e395e",
+    "rect": [
+      13,
+      0,
+      195,
+      311
+    ],
+    "offset": [
+      -5,
+      1
+    ],
+    "originalSize": [
+      231,
+      313
+    ]
+  }
+}

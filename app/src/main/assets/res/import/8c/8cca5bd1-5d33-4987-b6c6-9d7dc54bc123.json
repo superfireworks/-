@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gezi_dj_4",
+    "texture": "7d1bf303-7920-434f-90ae-4b5a710df985",
+    "rect": [
+      73,
+      115,
+      282,
+      325
+    ],
+    "offset": [
+      0,
+      -57.5
+    ],
+    "originalSize": [
+      428,
+      440
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "impactpoint",
+    "texture": "4d21ec27-f052-4eb6-87e3-897ee9c49c9d",
+    "rect": [
+      0,
+      0,
+      156,
+      174
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      156,
+      174
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hp",
+    "texture": "073a52df-1b66-4aa9-a838-4e695d2ecb17",
+    "rect": [
+      0,
+      0,
+      47,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      47,
+      41
+    ]
+  }
+}

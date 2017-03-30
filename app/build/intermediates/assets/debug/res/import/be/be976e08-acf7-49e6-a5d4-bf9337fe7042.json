@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "stop",
+    "texture": "60add778-8baf-40ef-8b5c-e2070236d70b",
+    "rect": [
+      0,
+      0,
+      320,
+      278
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      320,
+      278
+    ]
+  }
+}

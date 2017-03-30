@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "take-btn",
+    "texture": "28998984-d388-452c-8c66-e4b03ac48403",
+    "rect": [
+      4,
+      4,
+      160,
+      160
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      168,
+      168
+    ]
+  }
+}

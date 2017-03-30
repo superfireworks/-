@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "w7",
+    "texture": "9c0bfaae-9b9a-4264-b40e-816a8359eb26",
+    "rect": [
+      0,
+      0,
+      120,
+      180
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      180
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "normal",
+    "texture": "3d0eba8a-b429-46f5-8ab9-aadd68b56a69",
+    "rect": [
+      0,
+      66,
+      690,
+      10
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      690,
+      142
+    ]
+  }
+}

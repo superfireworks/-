@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shake",
+    "texture": "fbccea38-0c25-49b0-91e5-fb8a11b5a8c1",
+    "rect": [
+      0,
+      0,
+      322,
+      286
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      322,
+      286
+    ]
+  }
+}

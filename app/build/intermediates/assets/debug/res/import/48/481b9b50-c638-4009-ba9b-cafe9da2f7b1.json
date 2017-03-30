@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "skip-btn-pressed",
+    "texture": "6a7617ff-0792-4dde-b4b3-40372897e301",
+    "rect": [
+      0,
+      0,
+      94,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      94,
+      100
+    ]
+  }
+}

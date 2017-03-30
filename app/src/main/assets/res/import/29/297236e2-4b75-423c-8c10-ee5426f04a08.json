@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_bg2_pressed",
+    "texture": "1ed64a72-76e6-499e-9c82-a9d634e07ef3",
+    "rect": [
+      0,
+      0,
+      160,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      58
+    ]
+  }
+}

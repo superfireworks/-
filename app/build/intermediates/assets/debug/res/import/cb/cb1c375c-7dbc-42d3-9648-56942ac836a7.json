@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_pop btn_no_pressed",
+    "texture": "5d34db0e-fa31-4076-81a5-f78bcf66536b",
+    "rect": [
+      0,
+      0,
+      128,
+      137
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      128,
+      138
+    ]
+  }
+}

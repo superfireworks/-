@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "say_down",
+    "texture": "553bdae8-2d72-49c1-abd2-4e31084214bc",
+    "rect": [
+      0,
+      0,
+      469,
+      216
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      469,
+      216
+    ]
+  }
+}

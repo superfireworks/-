@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "gear3",
+  "_duration": 3.033333333333333,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "rotation": [
+        {
+          "frame": 0,
+          "value": 0.4344865
+        },
+        {
+          "frame": 3.033333333333333,
+          "value": 360
+        }
+      ]
+    }
+  }
+}

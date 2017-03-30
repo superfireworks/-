@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boss3",
+    "texture": "c0952e6b-f9bb-497e-933b-fd44d4d9e12a",
+    "rect": [
+      0,
+      0,
+      112,
+      147
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      112,
+      148
+    ]
+  }
+}

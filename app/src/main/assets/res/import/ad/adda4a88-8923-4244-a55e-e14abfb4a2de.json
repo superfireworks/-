@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wave4",
+    "texture": "8d173531-f105-4d01-ac02-b0547ce4ceeb",
+    "rect": [
+      0,
+      0,
+      690,
+      142
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      690,
+      142
+    ]
+  }
+}

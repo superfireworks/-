@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_next btn_default",
+    "texture": "4c8dba9b-aee7-44ca-962d-0d49210ba615",
+    "rect": [
+      0,
+      0,
+      94,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      94,
+      100
+    ]
+  }
+}

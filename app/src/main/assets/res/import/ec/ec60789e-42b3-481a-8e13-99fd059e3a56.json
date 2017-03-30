@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gou_dj_2",
+    "texture": "247bb0bd-be77-44d4-8f46-d9b12a80a360",
+    "rect": [
+      0,
+      1,
+      339,
+      297
+    ],
+    "offset": [
+      0,
+      6.5
+    ],
+    "originalSize": [
+      339,
+      312
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "cq",
+  "_duration": 0.18333333333333332,
+  "wrapMode": 22,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "cf14185f-d08f-4585-8310-838723278c04"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "06c9f0aa-2ce3-4865-9528-b9e1f556c794"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "22e6772f-d105-45b6-b264-b353de80be7f"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "cfbc30e8-e4fd-4521-bbe6-9f583c0e9dec"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

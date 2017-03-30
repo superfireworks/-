@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "phone",
+    "texture": "ea601189-801b-4b83-a854-e5ad252796f5",
+    "rect": [
+      0,
+      0,
+      204,
+      311
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      204,
+      311
+    ]
+  }
+}

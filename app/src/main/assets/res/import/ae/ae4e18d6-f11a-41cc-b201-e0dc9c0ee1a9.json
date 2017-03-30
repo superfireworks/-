@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "move",
+    "texture": "dacf171e-f4c1-41db-a27e-91ea7a2d15a0",
+    "rect": [
+      15,
+      0,
+      10,
+      103
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      103
+    ]
+  }
+}

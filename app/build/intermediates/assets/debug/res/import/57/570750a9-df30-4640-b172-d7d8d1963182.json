@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wa8",
+    "texture": "54544fab-c468-4c86-8ecc-733ef3432dd1",
+    "rect": [
+      0,
+      163,
+      273,
+      281
+    ],
+    "offset": [
+      0,
+      -74
+    ],
+    "originalSize": [
+      273,
+      459
+    ]
+  }
+}

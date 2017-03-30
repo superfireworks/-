@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "top_body",
+    "texture": "a7b844fb-8578-4407-b0a2-a8c036008ab6",
+    "rect": [
+      0,
+      228,
+      720,
+      1052
+    ],
+    "offset": [
+      0,
+      -114
+    ],
+    "originalSize": [
+      720,
+      1280
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wa_dj_3",
+    "texture": "f0b76c5e-58c8-4299-a4d6-0f639bb9477d",
+    "rect": [
+      0,
+      179,
+      273,
+      280
+    ],
+    "offset": [
+      0,
+      -89.5
+    ],
+    "originalSize": [
+      273,
+      459
+    ]
+  }
+}

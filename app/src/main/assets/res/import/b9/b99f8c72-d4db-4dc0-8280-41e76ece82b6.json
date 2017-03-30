@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "say_up",
+    "texture": "160969d5-981d-4add-970f-95e1268c4d71",
+    "rect": [
+      0,
+      0,
+      469,
+      216
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      469,
+      216
+    ]
+  }
+}

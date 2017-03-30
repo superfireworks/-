@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dialog",
+    "texture": "7e74b158-ce68-4874-9f5b-fadd4a000c30",
+    "rect": [
+      0,
+      0,
+      660,
+      390
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      660,
+      390
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home-btn",
+    "texture": "d6063fea-ec2d-4d9b-b7f3-642b95dfeec8",
+    "rect": [
+      0,
+      0,
+      128,
+      138
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      138
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dy1",
+    "texture": "5f9fc9be-dec1-418e-977e-12ef16444d80",
+    "rect": [
+      0,
+      0,
+      141,
+      106
+    ],
+    "offset": [
+      0,
+      2
+    ],
+    "originalSize": [
+      141,
+      110
+    ]
+  }
+}

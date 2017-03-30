@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\MediaPlayOnLine\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\network_image_loading.png",
+        "source": "D:\\MediaPlayOnLine\\app\\src\\main\\res\\mipmap-mdpi\\network_image_loading.png"
+    },
+    {
+        "merged": "D:\\MediaPlayOnLine\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\network_image_error.png",
+        "source": "D:\\MediaPlayOnLine\\app\\src\\main\\res\\mipmap-mdpi\\network_image_error.png"
+    },
+    {
+        "merged": "D:\\MediaPlayOnLine\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\MediaPlayOnLine\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

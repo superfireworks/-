@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sound-btn",
+    "texture": "05c3e6dd-02ba-4826-9c0b-bff7c0582453",
+    "rect": [
+      0,
+      0,
+      94,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      94,
+      100
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+#Wed Mar 29 15:33:53 GMT+08:00 2017
+base.0=D\:\\MediaPlayOnLine\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e24ced1a5c7aadde17c9b8a2d85b0428b321f9f1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\MediaPlayOnLine\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9544bbc6b05f6711c77ee2c910fdf35b9a229fa8\\classes.dex
+base.1=D\:\\MediaPlayOnLine\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9544bbc6b05f6711c77ee2c910fdf35b9a229fa8
+file.0=D\:\\MediaPlayOnLine\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e24ced1a5c7aadde17c9b8a2d85b0428b321f9f1\\classes.dex

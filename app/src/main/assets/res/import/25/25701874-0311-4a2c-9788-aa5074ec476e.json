@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "audio",
+    "texture": "45fc1ed2-c2c5-4b88-9403-f86a465d2970",
+    "rect": [
+      0,
+      0,
+      54,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      54,
+      47
+    ]
+  }
+}

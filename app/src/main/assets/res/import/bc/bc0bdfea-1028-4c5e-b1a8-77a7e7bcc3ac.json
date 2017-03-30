@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "titlebar-boss",
+    "texture": "8b1b7a66-f6ba-4c1f-8f03-50eae2fa5961",
+    "rect": [
+      0,
+      1,
+      58,
+      73
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      58,
+      76
+    ]
+  }
+}

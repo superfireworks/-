@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jian",
+    "texture": "64ccc37d-2a03-4819-b836-3db1733cafd9",
+    "rect": [
+      0,
+      0,
+      114,
+      111
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      114,
+      111
+    ]
+  }
+}

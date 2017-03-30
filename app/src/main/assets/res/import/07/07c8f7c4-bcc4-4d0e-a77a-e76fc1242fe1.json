@@ -1,0 +1,40 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "eye",
+  "_duration": 3.2666666666666666,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            83.86,
+            -56.81
+          ]
+        },
+        {
+          "frame": 1.7833333333333334,
+          "value": [
+            129.37,
+            -58.58
+          ]
+        },
+        {
+          "frame": 3.2666666666666666,
+          "value": [
+            82.94,
+            -57.34
+          ]
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    }
+  ]
+}

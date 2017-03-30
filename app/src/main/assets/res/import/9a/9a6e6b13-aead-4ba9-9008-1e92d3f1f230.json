@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "replay",
+    "texture": "3bc203cb-f548-4d38-a53a-cf10105a5975",
+    "rect": [
+      0,
+      0,
+      280,
+      280
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      280,
+      280
+    ]
+  }
+}

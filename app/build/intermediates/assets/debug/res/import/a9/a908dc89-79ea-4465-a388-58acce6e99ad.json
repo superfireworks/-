@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ins",
+    "texture": "82bc1889-e0b1-46e7-aef4-a1af1a1e094d",
+    "rect": [
+      0,
+      0,
+      132,
+      143
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      132,
+      143
+    ]
+  }
+}

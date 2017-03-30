@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\MediaPlayOnLine\app\libs\zxing.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="96b67e377ff4637ff1fa3bbe9ad7183773935f39">
+        <dex dex="D:\MediaPlayOnLine\app\build\intermediates\transforms\dex\debug\folders\1000\2\zxing_8adbf735c93de84b27ba6b67a201c9be48844982\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MediaPlayOnLine\app\build\intermediates\exploded-aar\org.xutils\xutils\3.3.44\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a4638691138066ea48da43ef8f85ce1f5a8c3015">
+        <dex dex="D:\MediaPlayOnLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.xutils-xutils-3.3.44_04a43d9b70677a1b47cd59d84e80f2812f0db3ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\MediaPlayOnLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_1f3ddf859a86296da03fddcf50d19f29d652df81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MediaPlayOnLine\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\MediaPlayOnLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_8b22a3fa412e8bc9d5ead4680ec028183fefb18b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MediaPlayOnLine\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\MediaPlayOnLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_5b41abd40ee9e2b47c131e739c2aaf7e2929e26c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MediaPlayOnLine\app\libs\eventbus.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="daa16c374315d437a1af03a3c78d8b92d19b8226">
+        <dex dex="D:\MediaPlayOnLine\app\build\intermediates\transforms\dex\debug\folders\1000\2\eventbus_f1193f6f0b3c5ee12cb91faa952a9d59bb484846\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MediaPlayOnLine\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="D:\MediaPlayOnLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.2.0_bca4453ae54e110d629824f8bdc4cbfcce7ea214\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MediaPlayOnLine\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\MediaPlayOnLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_1a1af7ff9c9af37f7c050edac349ac85c94e1332\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MediaPlayOnLine\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="D:\MediaPlayOnLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_68f750e7f6a8ffd8b1e2a2b3ba02a25f862077a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidstudio\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\MediaPlayOnLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_5d34cdb620c40121353862cfb4d17a644e18a821\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MediaPlayOnLine\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="D:\MediaPlayOnLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.2.0_c3709644fc3027b9b15fc1e793f7285e4119c209\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MediaPlayOnLine\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\MediaPlayOnLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_8055924792a7e0b9cc5c4cf6e4a6d023b8b44c23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MediaPlayOnLine\app\libs\Volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
+        <dex dex="D:\MediaPlayOnLine\app\build\intermediates\transforms\dex\debug\folders\1000\2\Volley_9e5d8d06c32d6855ed0dfb9ab8eafc3ae6c69c9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MediaPlayOnLine\app\libs\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\MediaPlayOnLine\app\build\intermediates\transforms\dex\debug\folders\1000\2\butterknife-7.0.1_3f4a17fce60e59d6488da19c33c5ddfe3f42ccdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MediaPlayOnLine\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\MediaPlayOnLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_d1c9b89367d6c46f490962798288545164d0459d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MediaPlayOnLine\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\MediaPlayOnLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_97780a0351a2e608f1fbb4705aa058e2e8cd7a85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MediaPlayOnLine\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="D:\MediaPlayOnLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_2a194e18a1add9c3752cfe4082d14a074c404f42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="D:\MediaPlayOnLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.4_6890e801880bd242164763e4b5f4086b8128ed8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MediaPlayOnLine\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="D:\MediaPlayOnLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.2.0_6c22c1c481d06bdddfc2a5630dabc29294406e9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MediaPlayOnLine\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="D:\MediaPlayOnLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_8fb1171483a6dc263169c369979bfa00239bd92e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MediaPlayOnLine\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bf8b6b5a57f809049255b24248d5c7c2cbf3764">
+        <dex dex="D:\MediaPlayOnLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e24ced1a5c7aadde17c9b8a2d85b0428b321f9f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MediaPlayOnLine\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af7e5f7145b35a738e8372312019cfdaa5d6bb01">
+        <dex dex="D:\MediaPlayOnLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9544bbc6b05f6711c77ee2c910fdf35b9a229fa8\classes.dex" />
+    </item>
+
+</items>

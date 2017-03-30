@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wa5",
+    "texture": "87155b0c-3686-40db-9a5c-d2343bfb754a",
+    "rect": [
+      29,
+      111,
+      210,
+      263
+    ],
+    "offset": [
+      -2.5,
+      -13
+    ],
+    "originalSize": [
+      273,
+      459
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_again_pressed",
+    "texture": "b6b1e097-b01a-4e70-b92b-6427d8184cd5",
+    "rect": [
+      0,
+      0,
+      128,
+      138
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      138
+    ]
+  }
+}

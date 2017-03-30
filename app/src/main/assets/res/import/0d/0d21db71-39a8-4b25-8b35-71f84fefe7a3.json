@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "scrollbar-bg",
+    "texture": "9e4f3b1d-2e47-4872-8ff4-933db1b54fb9",
+    "rect": [
+      0,
+      0,
+      9,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      9,
+      96
+    ],
+    "capInsets": [
+      0,
+      10,
+      0,
+      14
+    ]
+  }
+}

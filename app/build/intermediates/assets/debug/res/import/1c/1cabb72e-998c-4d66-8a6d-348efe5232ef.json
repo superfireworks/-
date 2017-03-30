@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "error",
+    "texture": "027eb536-b194-4d0f-b5d6-6b51dccac3c9",
+    "rect": [
+      7,
+      7,
+      30,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      44,
+      44
+    ]
+  }
+}

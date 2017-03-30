@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "amazing",
+    "texture": "e4e33f04-68a7-464b-bb70-0767d95bdc67",
+    "rect": [
+      0,
+      0,
+      307,
+      105
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      307,
+      105
+    ]
+  }
+}

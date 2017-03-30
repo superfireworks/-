@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_share btn_pressed",
+    "texture": "2e7fe04a-492a-45b8-9cac-85fb51e10586",
+    "rect": [
+      0,
+      0,
+      94,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      94,
+      100
+    ]
+  }
+}

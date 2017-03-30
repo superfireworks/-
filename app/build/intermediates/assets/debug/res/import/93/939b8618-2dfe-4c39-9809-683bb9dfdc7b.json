@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btm",
+    "texture": "04fbde09-b764-4047-a068-4c41d07b2179",
+    "rect": [
+      0,
+      0,
+      211,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      211,
+      67
+    ]
+  }
+}

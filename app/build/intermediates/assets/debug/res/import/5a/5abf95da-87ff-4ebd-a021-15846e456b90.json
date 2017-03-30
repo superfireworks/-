@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "play_dj",
+  "_duration": 0.5166666666666667,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ce35a43e-7d3a-44b5-9f6f-bf8a6460be5e"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "d8ccc4ad-6c59-4042-b855-e54bdf453871"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

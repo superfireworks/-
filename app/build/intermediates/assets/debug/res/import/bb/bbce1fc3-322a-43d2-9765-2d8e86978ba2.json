@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "scroll-bg",
+    "texture": "5aed30bc-c4fe-4436-a5d4-f478f4d147ef",
+    "rect": [
+      0,
+      0,
+      32,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      32,
+      32
+    ],
+    "capInsets": [
+      7,
+      7,
+      11,
+      10
+    ]
+  }
+}

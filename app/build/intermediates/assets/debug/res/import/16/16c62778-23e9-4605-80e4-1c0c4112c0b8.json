@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_guide_05",
+    "texture": "a837f366-c206-4677-8e2f-579f77680a4f",
+    "rect": [
+      0,
+      0,
+      680,
+      538
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      680,
+      538
+    ]
+  }
+}

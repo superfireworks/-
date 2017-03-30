@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "light1",
+    "texture": "a79737bf-b710-45df-9ea4-fd7059ad17c1",
+    "rect": [
+      0,
+      0,
+      560,
+      561
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      560,
+      563
+    ]
+  }
+}

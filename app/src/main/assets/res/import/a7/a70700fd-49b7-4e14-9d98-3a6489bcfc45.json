@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_warring_pressed",
+    "texture": "d567af97-8c50-4911-80a1-49c39ab4028e",
+    "rect": [
+      0,
+      0,
+      128,
+      137
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      128,
+      138
+    ]
+  }
+}

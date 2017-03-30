@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sy4",
+    "texture": "c29f1ff2-4460-41db-9cf8-93500d146cc2",
+    "rect": [
+      3,
+      0,
+      311,
+      142
+    ],
+    "offset": [
+      1.5,
+      5.5
+    ],
+    "originalSize": [
+      314,
+      153
+    ]
+  }
+}

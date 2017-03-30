@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "goon",
+    "texture": "e2b17d8d-415c-4a6a-8a2f-3744f629c54f",
+    "rect": [
+      0,
+      0,
+      100,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      66
+    ]
+  }
+}

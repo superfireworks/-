@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jia",
+    "texture": "bff43bc0-aac6-4f60-87d3-a212f81cabc7",
+    "rect": [
+      0,
+      0,
+      76,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      76,
+      71
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "level_top",
+    "texture": "6211fd0b-b1f1-4463-9dfe-975d105db25e",
+    "rect": [
+      4,
+      3,
+      322,
+      116
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      330,
+      120
+    ]
+  }
+}

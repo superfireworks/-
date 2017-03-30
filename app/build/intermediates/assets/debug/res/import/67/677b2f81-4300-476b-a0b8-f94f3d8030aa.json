@@ -1,0 +1,486 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "backView",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "backView",
+    "_children": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "66e42cWbV9IKKctblOoTcf+",
+        "node": {
+          "__id__": 1
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "fileId": "69c3179m9RJgaWOB6uvxLX9"
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "FFFFFF-1",
+    "_opacity": 204,
+    "_color": {
+      "__type__": "cc.Color"
+    },
+    "_parent": {
+      "__id__": 1
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 720,
+      "height": 1280
+    },
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 2
+        },
+        "_spriteFrame": {
+          "__uuid__": "2e36e447-9bae-4cfe-b51c-c0a6054f6eb0"
+        },
+        "_type": 1,
+        "_sizeMode": 0
+      },
+      {
+        "__type__": "cc.Button",
+        "node": {
+          "__id__": 2
+        },
+        "clickEvents": [
+          {
+            "__type__": "cc.ClickEvent",
+            "target": {
+              "__id__": 1
+            },
+            "component": "pauseView",
+            "handler": "userclick"
+          }
+        ],
+        "_N$target": {
+          "__id__": 2
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "fileId": "5a534i+kJBEOrYAPe9PpO8c"
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "dialog",
+    "_parent": {
+      "__id__": 1
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 660,
+      "height": 320
+    },
+    "_children": [
+      {
+        "__id__": 4
+      },
+      {
+        "__id__": 5
+      },
+      {
+        "__id__": 7
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 3
+        },
+        "_spriteFrame": {
+          "__uuid__": "4906d929-c5ae-48f6-9349-8925c7f8a7e3"
+        },
+        "_sizeMode": 0
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "fileId": "e35a3D4zypOXKhDlZvhcgFJ"
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New Label",
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 113,
+      "g": 115,
+      "b": 114
+    },
+    "_parent": {
+      "__id__": 3
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 593.67,
+      "height": 150
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "y": 33
+    },
+    "_components": [
+      {
+        "__type__": "cc.Label",
+        "node": {
+          "__id__": 4
+        },
+        "_useOriginalSize": false,
+        "_actualFontSize": 42,
+        "_fontSize": 42,
+        "_lineHeight": 50,
+        "_N$file": {
+          "__uuid__": "e6119eb1-4699-43f9-b73b-4deb89b9a9fc"
+        },
+        "_isSystemFontUsed": false,
+        "_N$string": "Are you sure to quit the \ngame and mark the current \ntest as failure?",
+        "_N$horizontalAlign": 1,
+        "_N$verticalAlign": 1
+      },
+      {
+        "__type__": "cc.Widget",
+        "node": {
+          "__id__": 4
+        },
+        "_alignFlags": 17,
+        "_top": 52
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "fileId": "06da8EeHrpCF6vhCk+n4+Vy"
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Button1",
+    "_parent": {
+      "__id__": 3
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 120,
+      "height": 120
+    },
+    "_children": [
+      {
+        "__id__": 6
+      }
+    ],
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": -107,
+      "y": -155
+    },
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 5
+        },
+        "_spriteFrame": {
+          "__uuid__": "d9b60141-30c8-4173-8485-1e3ad8a59d62"
+        },
+        "_type": 1,
+        "_sizeMode": 0
+      },
+      {
+        "__type__": "cc.Button",
+        "node": {
+          "__id__": 5
+        },
+        "transition": 2,
+        "pressedColor": {
+          "__type__": "cc.Color",
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "pressedSprite": {
+          "__uuid__": "676a64d1-a14e-4238-87ba-9a5822fc1e68"
+        },
+        "hoverSprite": {
+          "__uuid__": "676a64d1-a14e-4238-87ba-9a5822fc1e68"
+        },
+        "clickEvents": [
+          {
+            "__type__": "cc.ClickEvent",
+            "target": {
+              "__id__": 1
+            },
+            "component": "BackView",
+            "handler": "onYes"
+          }
+        ],
+        "_N$normalColor": {
+          "__type__": "cc.Color",
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "_N$disabledColor": {
+          "__type__": "cc.Color",
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "_N$normalSprite": {
+          "__uuid__": "d9b60141-30c8-4173-8485-1e3ad8a59d62"
+        },
+        "_N$disabledSprite": {
+          "__uuid__": "29158224-f8dd-4661-a796-1ffab537140e"
+        },
+        "_N$target": {
+          "__id__": 5
+        }
+      },
+      {
+        "__type__": "36fccTNV6dFY6YSuOz2SfUv",
+        "node": {
+          "__id__": 5
+        }
+      },
+      {
+        "__type__": "cc.Widget",
+        "node": {
+          "__id__": 5
+        },
+        "_alignFlags": 12,
+        "_left": 163,
+        "_bottom": -55
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "fileId": "a82674gs2RJR7Uu4Q4Hyi5c"
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Label",
+    "_color": {
+      "__type__": "cc.Color"
+    },
+    "_parent": {
+      "__id__": 5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 100,
+      "height": 120
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 5,
+      "y": -63
+    },
+    "_components": [
+      {
+        "__type__": "cc.Label",
+        "node": {
+          "__id__": 6
+        },
+        "_useOriginalSize": false,
+        "_actualFontSize": 20,
+        "_fontSize": 20,
+        "_enableWrapText": false,
+        "_N$string": "\n",
+        "_N$horizontalAlign": 1,
+        "_N$verticalAlign": 1,
+        "_N$overflow": 1
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "fileId": "d4305yaM8VIYpZvTMcazvN5"
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Button2",
+    "_parent": {
+      "__id__": 3
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 120,
+      "height": 120
+    },
+    "_children": [
+      {
+        "__id__": 8
+      }
+    ],
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 104,
+      "y": -155
+    },
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 7
+        },
+        "_spriteFrame": {
+          "__uuid__": "e2745d46-bdaa-4c58-89fe-d36245e5e6e4"
+        },
+        "_type": 1,
+        "_sizeMode": 0
+      },
+      {
+        "__type__": "cc.Button",
+        "node": {
+          "__id__": 7
+        },
+        "transition": 2,
+        "pressedColor": {
+          "__type__": "cc.Color",
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "pressedSprite": {
+          "__uuid__": "cb1c375c-7dbc-42d3-9648-56942ac836a7"
+        },
+        "hoverSprite": {
+          "__uuid__": "cb1c375c-7dbc-42d3-9648-56942ac836a7"
+        },
+        "clickEvents": [
+          {
+            "__type__": "cc.ClickEvent",
+            "target": {
+              "__id__": 1
+            },
+            "component": "BackView",
+            "handler": "onNo"
+          }
+        ],
+        "_N$normalColor": {
+          "__type__": "cc.Color",
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "_N$disabledColor": {
+          "__type__": "cc.Color",
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "_N$normalSprite": {
+          "__uuid__": "e2745d46-bdaa-4c58-89fe-d36245e5e6e4"
+        },
+        "_N$disabledSprite": {
+          "__uuid__": "29158224-f8dd-4661-a796-1ffab537140e"
+        },
+        "_N$target": {
+          "__id__": 7
+        }
+      },
+      {
+        "__type__": "36fccTNV6dFY6YSuOz2SfUv",
+        "node": {
+          "__id__": 7
+        }
+      },
+      {
+        "__type__": "cc.Widget",
+        "node": {
+          "__id__": 7
+        },
+        "_alignFlags": 20,
+        "_left": 0.1,
+        "_bottom": -55,
+        "_horizontalCenter": 104,
+        "_isAbsLeft": false
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "fileId": "d3acfOOSrNFjLQtt129KBDW"
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Label",
+    "_color": {
+      "__type__": "cc.Color"
+    },
+    "_parent": {
+      "__id__": 7
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 100,
+      "height": 40
+    },
+    "_components": [
+      {
+        "__type__": "cc.Label",
+        "node": {
+          "__id__": 8
+        },
+        "_useOriginalSize": false,
+        "_actualFontSize": 42,
+        "_fontSize": 42,
+        "_enableWrapText": false,
+        "_N$string": "\n",
+        "_N$horizontalAlign": 1,
+        "_N$verticalAlign": 1,
+        "_N$overflow": 1
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "fileId": "88e7erN+0JHurrFbWlWG8rn"
+    }
+  }
+]

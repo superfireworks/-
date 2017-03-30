@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "miss",
+    "texture": "7f4c8834-c9c6-4559-9cbb-71d1627b24a3",
+    "rect": [
+      0,
+      0,
+      184,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      184,
+      104
+    ]
+  }
+}

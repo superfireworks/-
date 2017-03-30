@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_warring_default",
+    "texture": "94e52e35-b6d8-43ff-b2b3-7eb758b4da51",
+    "rect": [
+      0,
+      0,
+      128,
+      137
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      128,
+      138
+    ]
+  }
+}

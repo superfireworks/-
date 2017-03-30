@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wave2",
+    "texture": "c6f79df5-929e-45f1-a959-2074e7b91fc3",
+    "rect": [
+      0,
+      0,
+      690,
+      142
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      690,
+      142
+    ]
+  }
+}

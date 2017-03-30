@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "wa_dj",
+  "_duration": 0.5166666666666667,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "371ee725-e08e-4ddc-b450-8cc270c397f5"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "7d9e7f47-c596-40c5-9d9a-ebee29032599"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "a6cb3202-ecbc-4db5-a0c0-b6de639e82c1"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "149dd30d-7e40-470b-aab4-b0446462dd4d"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

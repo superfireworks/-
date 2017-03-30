@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_guide_gesture01",
+    "texture": "f6c8a1e2-bcc5-46e8-bfe8-f4703c2d66e4",
+    "rect": [
+      0,
+      1,
+      166,
+      137
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      166,
+      138
+    ]
+  }
+}

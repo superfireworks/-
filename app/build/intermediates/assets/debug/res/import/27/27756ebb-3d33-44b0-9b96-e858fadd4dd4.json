@@ -1,0 +1,36 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "label",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Label",
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 128,
+      "height": 50
+    },
+    "_components": [
+      {
+        "__type__": "cc.Label",
+        "node": {
+          "__id__": 1
+        },
+        "_useOriginalSize": false,
+        "_N$horizontalAlign": 1,
+        "_N$verticalAlign": 1
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "fileId": "d1cddH/doRNQ4Aodz8556bh"
+    }
+  }
+]

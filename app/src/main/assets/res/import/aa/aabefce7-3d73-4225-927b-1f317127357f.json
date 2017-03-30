@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "level_bg",
+    "texture": "d08a83d9-639f-42ba-90db-48260e519366",
+    "rect": [
+      0,
+      0,
+      330,
+      120
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      330,
+      120
+    ]
+  }
+}

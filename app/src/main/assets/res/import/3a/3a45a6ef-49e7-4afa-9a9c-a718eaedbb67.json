@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xy3",
+    "texture": "1a052b9b-4492-46d5-aa94-a8bdf7ebd722",
+    "rect": [
+      2,
+      1,
+      60,
+      86
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      64,
+      87
+    ]
+  }
+}

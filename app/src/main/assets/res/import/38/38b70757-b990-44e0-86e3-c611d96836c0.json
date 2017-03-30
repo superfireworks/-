@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_hand",
+    "texture": "3e16c411-c1a5-472b-96a4-446d6cc2bb48",
+    "rect": [
+      0,
+      0,
+      134,
+      105
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      134,
+      106
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "eat1",
+    "texture": "509703a3-edcc-4c4d-a55b-177c1d9249ed",
+    "rect": [
+      0,
+      0,
+      112,
+      147
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      112,
+      149
+    ]
+  }
+}

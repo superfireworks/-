@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "scrollbar",
+    "texture": "fcf9eaad-ed68-4523-9695-b03b5cbd1a22",
+    "rect": [
+      0,
+      0,
+      9,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      9,
+      96
+    ],
+    "capInsets": [
+      0,
+      7,
+      0,
+      7
+    ]
+  }
+}

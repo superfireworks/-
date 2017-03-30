@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "glass3",
+    "texture": "c0b3e6a0-65dd-4ce0-9068-2175bbec3440",
+    "rect": [
+      123,
+      227,
+      475,
+      340
+    ],
+    "offset": [
+      0.5,
+      243
+    ],
+    "originalSize": [
+      720,
+      1280
+    ]
+  }
+}

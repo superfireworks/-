@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "gezi_dj",
+  "_duration": 0.52,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ac0afa15-b074-47d5-993c-f2f3dfa901aa"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "9ab6947a-fce3-41c0-990d-e56a061dcf2f"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "ca35ea87-57dd-4a7a-8db5-c2358d4345a9"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "8cca5bd1-5d33-4987-b6c6-9d7dc54bc123"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

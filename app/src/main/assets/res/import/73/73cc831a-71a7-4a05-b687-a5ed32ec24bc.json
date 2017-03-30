@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "colse",
+    "texture": "8e08be1b-25f8-425d-aa93-51a5af6e0b74",
+    "rect": [
+      8,
+      12,
+      26,
+      19
+    ],
+    "offset": [
+      -1,
+      0.5
+    ],
+    "originalSize": [
+      44,
+      44
+    ]
+  }
+}

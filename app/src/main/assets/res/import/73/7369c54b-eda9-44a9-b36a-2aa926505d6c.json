@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "poor",
+    "texture": "42dbaeb6-f3d3-478f-abff-2e0c1cd401e4",
+    "rect": [
+      0,
+      0,
+      184,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      184,
+      104
+    ]
+  }
+}

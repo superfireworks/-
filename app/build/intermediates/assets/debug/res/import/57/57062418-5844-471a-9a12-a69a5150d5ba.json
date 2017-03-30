@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "continue-btn-pressed",
+    "texture": "45934ce8-1f6d-4ae9-b1df-c3372ddca20d",
+    "rect": [
+      0,
+      0,
+      127,
+      137
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      128,
+      138
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_pop",
+    "texture": "283ae4ed-1df7-4a26-90ac-7f5b14ce8f33",
+    "rect": [
+      0,
+      0,
+      660,
+      319
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      660,
+      320
+    ]
+  }
+}
